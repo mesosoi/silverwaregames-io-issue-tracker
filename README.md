@@ -2,6 +2,8 @@
 
 Issue Tracker for SilverwareGames.io
 
+Silverware Games is a premium social network where people can play games online. Our mission is to provide a fun place to play games and be creative.
+
 Use https://github.com/mesosoi/silverwaregames-io-issue-tracker/issues to submit an idea or a bug report. You should be signed into GitHub.
 
 Rules:
