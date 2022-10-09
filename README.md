@@ -1,4 +1,4 @@
-# silverwaregames-io-issue-tracker
+# SilverwareGames.io Issue Tracker
 
 Issue Tracker for SilverwareGames.io
 
