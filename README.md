@@ -1,6 +1,8 @@
 # SilverwareGames.io Issue Tracker
 
-Issue Tracker for SilverwareGames.io
+![GitHub issues](https://img.shields.io/github/issues/mesosoi/silverwaregames-io-issue-tracker)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/mesosoi/silverwaregames-io-issue-tracker)
+
 
 Silverware Games is a premium social network where people can play games online. Our mission is to provide a fun place to play games and be creative.
 
