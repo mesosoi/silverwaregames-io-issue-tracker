@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/mesosoi/silverwaregames-io-issue-tracker)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/mesosoi/silverwaregames-io-issue-tracker)
 
-Silverware Games is a premium social network where people can play games online. Our mission is to provide a fun place to play games and be creative.
+Silverware Games is an invite-only social network where people can play games online and post creative stuff.
 
 Use https://github.com/mesosoi/silverwaregames-io-issue-tracker/issues to submit an idea or a bug report. You should be signed into GitHub.
 
