@@ -1,4 +1,3 @@
-Rules:
 * You must follow GitHub Community Guidelines.
 * The bug reports/ideas should be related to SilverwareGames.io (and SilverwareGames.io only).
 * It's up to us to decide whether (and when) accept the idea/bug report or not.
