@@ -7,6 +7,6 @@
 
 Silverware Games is an invite-only social network where people can play games online and post creative stuff.
 
-Use https://github.com/mesosoi/silverwaregames-io-issue-tracker/issues to submit an idea or a bug report. You should be signed into GitHub.
+Use [this form](https://github.com/mesosoi/silverwaregames-io-issue-tracker/issues) to submit an idea or a bug report. You must be signed into GitHub.
 
 Discord: https://discord.silverwaregames.com (#swgio)
